@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1669983492 source:c:\fatec\maromo\conta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"conta.h"
+
+1669839720 c:\fatec\maromo\conta\conta.h
+
+1669983092 source:c:\fatec\maromo\conta\conta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"conta.h"
+
